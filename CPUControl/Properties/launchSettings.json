@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CPUControl": {
+      "commandName": "Project",
+      "commandLineArgs": "4"
+    }
+  }
+}
